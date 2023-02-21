@@ -1,0 +1,14 @@
+C:\Users\Bugra\Desktop\C#_2022\T_C_dogrulama\T_C_dogrulama\bin\Debug\netcoreapp3.1\T_C_dogrulama.exe
+C:\Users\Bugra\Desktop\C#_2022\T_C_dogrulama\T_C_dogrulama\bin\Debug\netcoreapp3.1\T_C_dogrulama.deps.json
+C:\Users\Bugra\Desktop\C#_2022\T_C_dogrulama\T_C_dogrulama\bin\Debug\netcoreapp3.1\T_C_dogrulama.runtimeconfig.json
+C:\Users\Bugra\Desktop\C#_2022\T_C_dogrulama\T_C_dogrulama\bin\Debug\netcoreapp3.1\T_C_dogrulama.runtimeconfig.dev.json
+C:\Users\Bugra\Desktop\C#_2022\T_C_dogrulama\T_C_dogrulama\bin\Debug\netcoreapp3.1\T_C_dogrulama.dll
+C:\Users\Bugra\Desktop\C#_2022\T_C_dogrulama\T_C_dogrulama\bin\Debug\netcoreapp3.1\T_C_dogrulama.pdb
+C:\Users\Bugra\Desktop\C#_2022\T_C_dogrulama\T_C_dogrulama\obj\Debug\netcoreapp3.1\T_C_dogrulama.csproj.AssemblyReference.cache
+C:\Users\Bugra\Desktop\C#_2022\T_C_dogrulama\T_C_dogrulama\obj\Debug\netcoreapp3.1\T_C_dogrulama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bugra\Desktop\C#_2022\T_C_dogrulama\T_C_dogrulama\obj\Debug\netcoreapp3.1\T_C_dogrulama.AssemblyInfoInputs.cache
+C:\Users\Bugra\Desktop\C#_2022\T_C_dogrulama\T_C_dogrulama\obj\Debug\netcoreapp3.1\T_C_dogrulama.AssemblyInfo.cs
+C:\Users\Bugra\Desktop\C#_2022\T_C_dogrulama\T_C_dogrulama\obj\Debug\netcoreapp3.1\T_C_dogrulama.csproj.CoreCompileInputs.cache
+C:\Users\Bugra\Desktop\C#_2022\T_C_dogrulama\T_C_dogrulama\obj\Debug\netcoreapp3.1\T_C_dogrulama.dll
+C:\Users\Bugra\Desktop\C#_2022\T_C_dogrulama\T_C_dogrulama\obj\Debug\netcoreapp3.1\T_C_dogrulama.pdb
+C:\Users\Bugra\Desktop\C#_2022\T_C_dogrulama\T_C_dogrulama\obj\Debug\netcoreapp3.1\T_C_dogrulama.genruntimeconfig.cache

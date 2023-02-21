@@ -1,0 +1,10 @@
+E:\Okul\progresbar\bin\Debug\progresbar.exe.config
+E:\Okul\progresbar\bin\Debug\progresbar.exe
+E:\Okul\progresbar\bin\Debug\progresbar.pdb
+E:\Okul\progresbar\obj\Debug\progresbar.csproj.AssemblyReference.cache
+E:\Okul\progresbar\obj\Debug\progresbar.Form1.resources
+E:\Okul\progresbar\obj\Debug\progresbar.Properties.Resources.resources
+E:\Okul\progresbar\obj\Debug\progresbar.csproj.GenerateResource.cache
+E:\Okul\progresbar\obj\Debug\progresbar.csproj.CoreCompileInputs.cache
+E:\Okul\progresbar\obj\Debug\progresbar.exe
+E:\Okul\progresbar\obj\Debug\progresbar.pdb

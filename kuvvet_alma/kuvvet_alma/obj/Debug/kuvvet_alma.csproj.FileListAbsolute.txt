@@ -1,0 +1,10 @@
+C:\Users\Bugra\Desktop\csharp_kodlar\kuvvet_alma\kuvvet_alma\bin\Debug\kuvvet_alma.exe.config
+C:\Users\Bugra\Desktop\csharp_kodlar\kuvvet_alma\kuvvet_alma\bin\Debug\kuvvet_alma.exe
+C:\Users\Bugra\Desktop\csharp_kodlar\kuvvet_alma\kuvvet_alma\bin\Debug\kuvvet_alma.pdb
+C:\Users\Bugra\Desktop\csharp_kodlar\kuvvet_alma\kuvvet_alma\obj\Debug\kuvvet_alma.csproj.AssemblyReference.cache
+C:\Users\Bugra\Desktop\csharp_kodlar\kuvvet_alma\kuvvet_alma\obj\Debug\kuvvet_alma.Form1.resources
+C:\Users\Bugra\Desktop\csharp_kodlar\kuvvet_alma\kuvvet_alma\obj\Debug\kuvvet_alma.Properties.Resources.resources
+C:\Users\Bugra\Desktop\csharp_kodlar\kuvvet_alma\kuvvet_alma\obj\Debug\kuvvet_alma.csproj.GenerateResource.cache
+C:\Users\Bugra\Desktop\csharp_kodlar\kuvvet_alma\kuvvet_alma\obj\Debug\kuvvet_alma.csproj.CoreCompileInputs.cache
+C:\Users\Bugra\Desktop\csharp_kodlar\kuvvet_alma\kuvvet_alma\obj\Debug\kuvvet_alma.exe
+C:\Users\Bugra\Desktop\csharp_kodlar\kuvvet_alma\kuvvet_alma\obj\Debug\kuvvet_alma.pdb

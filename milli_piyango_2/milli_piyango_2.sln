@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "milli_piyango_2", "milli_piyango_2.csproj", "{B2C3F25C-0D67-4732-B4AA-220537B58203}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2C3F25C-0D67-4732-B4AA-220537B58203}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2C3F25C-0D67-4732-B4AA-220537B58203}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2C3F25C-0D67-4732-B4AA-220537B58203}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2C3F25C-0D67-4732-B4AA-220537B58203}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6777164E-A55B-45B5-9F6D-151C95B6B2ED}
+	EndGlobalSection
+EndGlobal

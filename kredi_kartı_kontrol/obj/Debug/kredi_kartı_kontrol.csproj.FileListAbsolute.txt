@@ -1,0 +1,10 @@
+E:\Okul\kredi_kartı_kontrol\bin\Debug\kredi_kartı_kontrol.exe.config
+E:\Okul\kredi_kartı_kontrol\bin\Debug\kredi_kartı_kontrol.exe
+E:\Okul\kredi_kartı_kontrol\bin\Debug\kredi_kartı_kontrol.pdb
+E:\Okul\kredi_kartı_kontrol\obj\Debug\kredi_kartı_kontrol.csproj.AssemblyReference.cache
+E:\Okul\kredi_kartı_kontrol\obj\Debug\kredi_kartı_kontrol.Form1.resources
+E:\Okul\kredi_kartı_kontrol\obj\Debug\kredi_kartı_kontrol.Properties.Resources.resources
+E:\Okul\kredi_kartı_kontrol\obj\Debug\kredi_kartı_kontrol.csproj.GenerateResource.cache
+E:\Okul\kredi_kartı_kontrol\obj\Debug\kredi_kartı_kontrol.csproj.CoreCompileInputs.cache
+E:\Okul\kredi_kartı_kontrol\obj\Debug\kredi_kartı_kontrol.exe
+E:\Okul\kredi_kartı_kontrol\obj\Debug\kredi_kartı_kontrol.pdb

@@ -1,0 +1,10 @@
+E:\Okul\Ucgen\bin\Debug\Ucgen.exe.config
+E:\Okul\Ucgen\bin\Debug\Ucgen.exe
+E:\Okul\Ucgen\bin\Debug\Ucgen.pdb
+E:\Okul\Ucgen\obj\Debug\Ucgen.csproj.AssemblyReference.cache
+E:\Okul\Ucgen\obj\Debug\Ucgen.Form1.resources
+E:\Okul\Ucgen\obj\Debug\Ucgen.Properties.Resources.resources
+E:\Okul\Ucgen\obj\Debug\Ucgen.csproj.GenerateResource.cache
+E:\Okul\Ucgen\obj\Debug\Ucgen.csproj.CoreCompileInputs.cache
+E:\Okul\Ucgen\obj\Debug\Ucgen.exe
+E:\Okul\Ucgen\obj\Debug\Ucgen.pdb

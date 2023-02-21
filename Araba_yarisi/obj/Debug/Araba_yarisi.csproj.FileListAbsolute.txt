@@ -1,0 +1,10 @@
+E:\Okul\Araba_yarisi\bin\Debug\Araba_yarisi.exe.config
+E:\Okul\Araba_yarisi\bin\Debug\Araba_yarisi.exe
+E:\Okul\Araba_yarisi\bin\Debug\Araba_yarisi.pdb
+E:\Okul\Araba_yarisi\obj\Debug\Araba_yarisi.csproj.AssemblyReference.cache
+E:\Okul\Araba_yarisi\obj\Debug\Araba_yarisi.Form1.resources
+E:\Okul\Araba_yarisi\obj\Debug\Araba_yarisi.Properties.Resources.resources
+E:\Okul\Araba_yarisi\obj\Debug\Araba_yarisi.csproj.GenerateResource.cache
+E:\Okul\Araba_yarisi\obj\Debug\Araba_yarisi.csproj.CoreCompileInputs.cache
+E:\Okul\Araba_yarisi\obj\Debug\Araba_yarisi.exe
+E:\Okul\Araba_yarisi\obj\Debug\Araba_yarisi.pdb

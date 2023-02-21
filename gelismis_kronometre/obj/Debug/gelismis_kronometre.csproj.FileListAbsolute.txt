@@ -1,0 +1,10 @@
+E:\Okul\gelismis_kronometre\bin\Debug\gelismis_kronometre.exe.config
+E:\Okul\gelismis_kronometre\bin\Debug\gelismis_kronometre.exe
+E:\Okul\gelismis_kronometre\bin\Debug\gelismis_kronometre.pdb
+E:\Okul\gelismis_kronometre\obj\Debug\gelismis_kronometre.csproj.AssemblyReference.cache
+E:\Okul\gelismis_kronometre\obj\Debug\gelismis_kronometre.Form1.resources
+E:\Okul\gelismis_kronometre\obj\Debug\gelismis_kronometre.Properties.Resources.resources
+E:\Okul\gelismis_kronometre\obj\Debug\gelismis_kronometre.csproj.GenerateResource.cache
+E:\Okul\gelismis_kronometre\obj\Debug\gelismis_kronometre.csproj.CoreCompileInputs.cache
+E:\Okul\gelismis_kronometre\obj\Debug\gelismis_kronometre.exe
+E:\Okul\gelismis_kronometre\obj\Debug\gelismis_kronometre.pdb

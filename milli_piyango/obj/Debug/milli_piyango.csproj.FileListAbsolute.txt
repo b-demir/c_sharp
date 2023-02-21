@@ -1,0 +1,10 @@
+E:\Okul\milli_piyango\bin\Debug\milli_piyango.exe.config
+E:\Okul\milli_piyango\bin\Debug\milli_piyango.exe
+E:\Okul\milli_piyango\bin\Debug\milli_piyango.pdb
+E:\Okul\milli_piyango\obj\Debug\milli_piyango.csproj.AssemblyReference.cache
+E:\Okul\milli_piyango\obj\Debug\milli_piyango.Form1.resources
+E:\Okul\milli_piyango\obj\Debug\milli_piyango.Properties.Resources.resources
+E:\Okul\milli_piyango\obj\Debug\milli_piyango.csproj.GenerateResource.cache
+E:\Okul\milli_piyango\obj\Debug\milli_piyango.csproj.CoreCompileInputs.cache
+E:\Okul\milli_piyango\obj\Debug\milli_piyango.exe
+E:\Okul\milli_piyango\obj\Debug\milli_piyango.pdb

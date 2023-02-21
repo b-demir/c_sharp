@@ -1,0 +1,10 @@
+E:\Okul\diziler2\bin\Debug\diziler2.exe.config
+E:\Okul\diziler2\bin\Debug\diziler2.exe
+E:\Okul\diziler2\bin\Debug\diziler2.pdb
+E:\Okul\diziler2\obj\Debug\diziler2.csproj.AssemblyReference.cache
+E:\Okul\diziler2\obj\Debug\diziler2.Form1.resources
+E:\Okul\diziler2\obj\Debug\diziler2.Properties.Resources.resources
+E:\Okul\diziler2\obj\Debug\diziler2.csproj.GenerateResource.cache
+E:\Okul\diziler2\obj\Debug\diziler2.csproj.CoreCompileInputs.cache
+E:\Okul\diziler2\obj\Debug\diziler2.exe
+E:\Okul\diziler2\obj\Debug\diziler2.pdb

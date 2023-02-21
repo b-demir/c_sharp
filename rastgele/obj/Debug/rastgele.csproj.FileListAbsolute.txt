@@ -1,0 +1,10 @@
+E:\Okul\rastgele\bin\Debug\rastgele.exe.config
+E:\Okul\rastgele\bin\Debug\rastgele.exe
+E:\Okul\rastgele\bin\Debug\rastgele.pdb
+E:\Okul\rastgele\obj\Debug\rastgele.csproj.AssemblyReference.cache
+E:\Okul\rastgele\obj\Debug\rastgele.Form1.resources
+E:\Okul\rastgele\obj\Debug\rastgele.Properties.Resources.resources
+E:\Okul\rastgele\obj\Debug\rastgele.csproj.GenerateResource.cache
+E:\Okul\rastgele\obj\Debug\rastgele.csproj.CoreCompileInputs.cache
+E:\Okul\rastgele\obj\Debug\rastgele.exe
+E:\Okul\rastgele\obj\Debug\rastgele.pdb

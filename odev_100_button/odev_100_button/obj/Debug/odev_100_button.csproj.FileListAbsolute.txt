@@ -1,0 +1,10 @@
+D:\Okul\odev_100_button\odev_100_button\bin\Debug\odev_100_button.exe.config
+D:\Okul\odev_100_button\odev_100_button\bin\Debug\odev_100_button.exe
+D:\Okul\odev_100_button\odev_100_button\bin\Debug\odev_100_button.pdb
+D:\Okul\odev_100_button\odev_100_button\obj\Debug\odev_100_button.csproj.AssemblyReference.cache
+D:\Okul\odev_100_button\odev_100_button\obj\Debug\odev_100_button.Form1.resources
+D:\Okul\odev_100_button\odev_100_button\obj\Debug\odev_100_button.Properties.Resources.resources
+D:\Okul\odev_100_button\odev_100_button\obj\Debug\odev_100_button.csproj.GenerateResource.cache
+D:\Okul\odev_100_button\odev_100_button\obj\Debug\odev_100_button.csproj.CoreCompileInputs.cache
+D:\Okul\odev_100_button\odev_100_button\obj\Debug\odev_100_button.exe
+D:\Okul\odev_100_button\odev_100_button\obj\Debug\odev_100_button.pdb

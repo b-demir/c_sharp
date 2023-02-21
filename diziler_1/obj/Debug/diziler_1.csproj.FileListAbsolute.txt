@@ -1,0 +1,7 @@
+E:\Okul\diziler_1\bin\Debug\diziler_1.exe.config
+E:\Okul\diziler_1\bin\Debug\diziler_1.exe
+E:\Okul\diziler_1\bin\Debug\diziler_1.pdb
+E:\Okul\diziler_1\obj\Debug\diziler_1.csproj.AssemblyReference.cache
+E:\Okul\diziler_1\obj\Debug\diziler_1.csproj.CoreCompileInputs.cache
+E:\Okul\diziler_1\obj\Debug\diziler_1.exe
+E:\Okul\diziler_1\obj\Debug\diziler_1.pdb

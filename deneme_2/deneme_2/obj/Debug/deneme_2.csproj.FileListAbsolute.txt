@@ -1,0 +1,10 @@
+C:\Users\Bugra\OneDrive\Masaüstü\demirin flashı\Okul\deneme_2\deneme_2\bin\Debug\deneme_2.exe.config
+C:\Users\Bugra\OneDrive\Masaüstü\demirin flashı\Okul\deneme_2\deneme_2\bin\Debug\deneme_2.exe
+C:\Users\Bugra\OneDrive\Masaüstü\demirin flashı\Okul\deneme_2\deneme_2\bin\Debug\deneme_2.pdb
+C:\Users\Bugra\OneDrive\Masaüstü\demirin flashı\Okul\deneme_2\deneme_2\obj\Debug\deneme_2.csproj.AssemblyReference.cache
+C:\Users\Bugra\OneDrive\Masaüstü\demirin flashı\Okul\deneme_2\deneme_2\obj\Debug\deneme_2.Form1.resources
+C:\Users\Bugra\OneDrive\Masaüstü\demirin flashı\Okul\deneme_2\deneme_2\obj\Debug\deneme_2.Properties.Resources.resources
+C:\Users\Bugra\OneDrive\Masaüstü\demirin flashı\Okul\deneme_2\deneme_2\obj\Debug\deneme_2.csproj.GenerateResource.cache
+C:\Users\Bugra\OneDrive\Masaüstü\demirin flashı\Okul\deneme_2\deneme_2\obj\Debug\deneme_2.csproj.CoreCompileInputs.cache
+C:\Users\Bugra\OneDrive\Masaüstü\demirin flashı\Okul\deneme_2\deneme_2\obj\Debug\deneme_2.exe
+C:\Users\Bugra\OneDrive\Masaüstü\demirin flashı\Okul\deneme_2\deneme_2\obj\Debug\deneme_2.pdb

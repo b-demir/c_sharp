@@ -1,0 +1,10 @@
+E:\Okul\Ucgen_2\bin\Debug\Ucgen_2.exe.config
+E:\Okul\Ucgen_2\bin\Debug\Ucgen_2.exe
+E:\Okul\Ucgen_2\bin\Debug\Ucgen_2.pdb
+E:\Okul\Ucgen_2\obj\Debug\Ucgen_2.csproj.AssemblyReference.cache
+E:\Okul\Ucgen_2\obj\Debug\Ucgen_2.Form1.resources
+E:\Okul\Ucgen_2\obj\Debug\Ucgen_2.Properties.Resources.resources
+E:\Okul\Ucgen_2\obj\Debug\Ucgen_2.csproj.GenerateResource.cache
+E:\Okul\Ucgen_2\obj\Debug\Ucgen_2.csproj.CoreCompileInputs.cache
+E:\Okul\Ucgen_2\obj\Debug\Ucgen_2.exe
+E:\Okul\Ucgen_2\obj\Debug\Ucgen_2.pdb

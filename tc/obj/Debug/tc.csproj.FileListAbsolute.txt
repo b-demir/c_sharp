@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\tc\bin\Debug\tc.exe.config
+C:\Users\Administrator\Desktop\tc\bin\Debug\tc.exe
+C:\Users\Administrator\Desktop\tc\bin\Debug\tc.pdb
+C:\Users\Administrator\Desktop\tc\obj\Debug\tc.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\tc\obj\Debug\tc.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\tc\obj\Debug\tc.exe
+C:\Users\Administrator\Desktop\tc\obj\Debug\tc.pdb

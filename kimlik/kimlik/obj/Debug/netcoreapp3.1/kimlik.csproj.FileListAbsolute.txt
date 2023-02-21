@@ -1,0 +1,14 @@
+C:\Users\Bugra\Desktop\Okul\kimlik\kimlik\obj\Debug\netcoreapp3.1\kimlik.csproj.AssemblyReference.cache
+C:\Users\Bugra\Desktop\Okul\kimlik\kimlik\obj\Debug\netcoreapp3.1\kimlik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bugra\Desktop\Okul\kimlik\kimlik\obj\Debug\netcoreapp3.1\kimlik.AssemblyInfoInputs.cache
+C:\Users\Bugra\Desktop\Okul\kimlik\kimlik\obj\Debug\netcoreapp3.1\kimlik.AssemblyInfo.cs
+C:\Users\Bugra\Desktop\Okul\kimlik\kimlik\obj\Debug\netcoreapp3.1\kimlik.csproj.CoreCompileInputs.cache
+C:\Users\Bugra\Desktop\Okul\kimlik\kimlik\bin\Debug\netcoreapp3.1\kimlik.exe
+C:\Users\Bugra\Desktop\Okul\kimlik\kimlik\bin\Debug\netcoreapp3.1\kimlik.deps.json
+C:\Users\Bugra\Desktop\Okul\kimlik\kimlik\bin\Debug\netcoreapp3.1\kimlik.runtimeconfig.json
+C:\Users\Bugra\Desktop\Okul\kimlik\kimlik\bin\Debug\netcoreapp3.1\kimlik.runtimeconfig.dev.json
+C:\Users\Bugra\Desktop\Okul\kimlik\kimlik\bin\Debug\netcoreapp3.1\kimlik.dll
+C:\Users\Bugra\Desktop\Okul\kimlik\kimlik\bin\Debug\netcoreapp3.1\kimlik.pdb
+C:\Users\Bugra\Desktop\Okul\kimlik\kimlik\obj\Debug\netcoreapp3.1\kimlik.dll
+C:\Users\Bugra\Desktop\Okul\kimlik\kimlik\obj\Debug\netcoreapp3.1\kimlik.pdb
+C:\Users\Bugra\Desktop\Okul\kimlik\kimlik\obj\Debug\netcoreapp3.1\kimlik.genruntimeconfig.cache

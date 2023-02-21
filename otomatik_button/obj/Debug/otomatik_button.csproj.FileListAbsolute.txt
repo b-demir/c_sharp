@@ -1,0 +1,10 @@
+E:\Okul\otomatik_button\bin\Debug\otomatik_button.exe.config
+E:\Okul\otomatik_button\bin\Debug\otomatik_button.exe
+E:\Okul\otomatik_button\bin\Debug\otomatik_button.pdb
+E:\Okul\otomatik_button\obj\Debug\otomatik_button.csproj.AssemblyReference.cache
+E:\Okul\otomatik_button\obj\Debug\otomatik_button.Form1.resources
+E:\Okul\otomatik_button\obj\Debug\otomatik_button.Properties.Resources.resources
+E:\Okul\otomatik_button\obj\Debug\otomatik_button.csproj.GenerateResource.cache
+E:\Okul\otomatik_button\obj\Debug\otomatik_button.csproj.CoreCompileInputs.cache
+E:\Okul\otomatik_button\obj\Debug\otomatik_button.exe
+E:\Okul\otomatik_button\obj\Debug\otomatik_button.pdb

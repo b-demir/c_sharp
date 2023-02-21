@@ -1,0 +1,10 @@
+E:\Okul\Carpimtablosu\bin\Debug\Carpimtablosu.exe.config
+E:\Okul\Carpimtablosu\bin\Debug\Carpimtablosu.exe
+E:\Okul\Carpimtablosu\bin\Debug\Carpimtablosu.pdb
+E:\Okul\Carpimtablosu\obj\Debug\Carpimtablosu.csproj.AssemblyReference.cache
+E:\Okul\Carpimtablosu\obj\Debug\Carpimtablosu.Form1.resources
+E:\Okul\Carpimtablosu\obj\Debug\Carpimtablosu.Properties.Resources.resources
+E:\Okul\Carpimtablosu\obj\Debug\Carpimtablosu.csproj.GenerateResource.cache
+E:\Okul\Carpimtablosu\obj\Debug\Carpimtablosu.csproj.CoreCompileInputs.cache
+E:\Okul\Carpimtablosu\obj\Debug\Carpimtablosu.exe
+E:\Okul\Carpimtablosu\obj\Debug\Carpimtablosu.pdb

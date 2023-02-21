@@ -1,0 +1,10 @@
+E:\Okul\Galeri\bin\Debug\Galeri.exe.config
+E:\Okul\Galeri\bin\Debug\Galeri.exe
+E:\Okul\Galeri\bin\Debug\Galeri.pdb
+E:\Okul\Galeri\obj\Debug\Galeri.csproj.AssemblyReference.cache
+E:\Okul\Galeri\obj\Debug\Galeri.Form1.resources
+E:\Okul\Galeri\obj\Debug\Galeri.Properties.Resources.resources
+E:\Okul\Galeri\obj\Debug\Galeri.csproj.GenerateResource.cache
+E:\Okul\Galeri\obj\Debug\Galeri.csproj.CoreCompileInputs.cache
+E:\Okul\Galeri\obj\Debug\Galeri.exe
+E:\Okul\Galeri\obj\Debug\Galeri.pdb

@@ -1,0 +1,10 @@
+E:\Okul\kronometre\bin\Debug\kronometre.exe.config
+E:\Okul\kronometre\bin\Debug\kronometre.exe
+E:\Okul\kronometre\bin\Debug\kronometre.pdb
+E:\Okul\kronometre\obj\Debug\kronometre.csproj.AssemblyReference.cache
+E:\Okul\kronometre\obj\Debug\kronometre.Form1.resources
+E:\Okul\kronometre\obj\Debug\kronometre.Properties.Resources.resources
+E:\Okul\kronometre\obj\Debug\kronometre.csproj.GenerateResource.cache
+E:\Okul\kronometre\obj\Debug\kronometre.csproj.CoreCompileInputs.cache
+E:\Okul\kronometre\obj\Debug\kronometre.exe
+E:\Okul\kronometre\obj\Debug\kronometre.pdb

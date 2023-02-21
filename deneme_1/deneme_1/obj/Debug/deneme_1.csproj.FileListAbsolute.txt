@@ -1,0 +1,10 @@
+C:\Users\Bugra\OneDrive\Masaüstü\demirin flashı\Okul\deneme_1\deneme_1\bin\Debug\deneme_1.exe.config
+C:\Users\Bugra\OneDrive\Masaüstü\demirin flashı\Okul\deneme_1\deneme_1\bin\Debug\deneme_1.exe
+C:\Users\Bugra\OneDrive\Masaüstü\demirin flashı\Okul\deneme_1\deneme_1\bin\Debug\deneme_1.pdb
+C:\Users\Bugra\OneDrive\Masaüstü\demirin flashı\Okul\deneme_1\deneme_1\obj\Debug\deneme_1.csproj.AssemblyReference.cache
+C:\Users\Bugra\OneDrive\Masaüstü\demirin flashı\Okul\deneme_1\deneme_1\obj\Debug\deneme_1.Form1.resources
+C:\Users\Bugra\OneDrive\Masaüstü\demirin flashı\Okul\deneme_1\deneme_1\obj\Debug\deneme_1.Properties.Resources.resources
+C:\Users\Bugra\OneDrive\Masaüstü\demirin flashı\Okul\deneme_1\deneme_1\obj\Debug\deneme_1.csproj.GenerateResource.cache
+C:\Users\Bugra\OneDrive\Masaüstü\demirin flashı\Okul\deneme_1\deneme_1\obj\Debug\deneme_1.csproj.CoreCompileInputs.cache
+C:\Users\Bugra\OneDrive\Masaüstü\demirin flashı\Okul\deneme_1\deneme_1\obj\Debug\deneme_1.exe
+C:\Users\Bugra\OneDrive\Masaüstü\demirin flashı\Okul\deneme_1\deneme_1\obj\Debug\deneme_1.pdb

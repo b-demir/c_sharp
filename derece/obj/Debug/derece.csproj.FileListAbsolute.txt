@@ -1,0 +1,10 @@
+E:\Okul\derece\bin\Debug\derece.exe.config
+E:\Okul\derece\bin\Debug\derece.exe
+E:\Okul\derece\bin\Debug\derece.pdb
+E:\Okul\derece\obj\Debug\derece.csproj.AssemblyReference.cache
+E:\Okul\derece\obj\Debug\derece.Form1.resources
+E:\Okul\derece\obj\Debug\derece.Properties.Resources.resources
+E:\Okul\derece\obj\Debug\derece.csproj.GenerateResource.cache
+E:\Okul\derece\obj\Debug\derece.csproj.CoreCompileInputs.cache
+E:\Okul\derece\obj\Debug\derece.exe
+E:\Okul\derece\obj\Debug\derece.pdb

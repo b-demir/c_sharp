@@ -1,0 +1,10 @@
+C:\Users\Bugra\Desktop\csharp_kodlar\listboxa_cift_sayi_ekleme\listboxa_cift_sayi_ekleme\bin\Debug\listboxa_cift_sayi_ekleme.exe.config
+C:\Users\Bugra\Desktop\csharp_kodlar\listboxa_cift_sayi_ekleme\listboxa_cift_sayi_ekleme\bin\Debug\listboxa_cift_sayi_ekleme.exe
+C:\Users\Bugra\Desktop\csharp_kodlar\listboxa_cift_sayi_ekleme\listboxa_cift_sayi_ekleme\bin\Debug\listboxa_cift_sayi_ekleme.pdb
+C:\Users\Bugra\Desktop\csharp_kodlar\listboxa_cift_sayi_ekleme\listboxa_cift_sayi_ekleme\obj\Debug\listboxa_cift_sayi_ekleme.csproj.AssemblyReference.cache
+C:\Users\Bugra\Desktop\csharp_kodlar\listboxa_cift_sayi_ekleme\listboxa_cift_sayi_ekleme\obj\Debug\listboxa_cift_sayi_ekleme.Form1.resources
+C:\Users\Bugra\Desktop\csharp_kodlar\listboxa_cift_sayi_ekleme\listboxa_cift_sayi_ekleme\obj\Debug\listboxa_cift_sayi_ekleme.Properties.Resources.resources
+C:\Users\Bugra\Desktop\csharp_kodlar\listboxa_cift_sayi_ekleme\listboxa_cift_sayi_ekleme\obj\Debug\listboxa_cift_sayi_ekleme.csproj.GenerateResource.cache
+C:\Users\Bugra\Desktop\csharp_kodlar\listboxa_cift_sayi_ekleme\listboxa_cift_sayi_ekleme\obj\Debug\listboxa_cift_sayi_ekleme.csproj.CoreCompileInputs.cache
+C:\Users\Bugra\Desktop\csharp_kodlar\listboxa_cift_sayi_ekleme\listboxa_cift_sayi_ekleme\obj\Debug\listboxa_cift_sayi_ekleme.exe
+C:\Users\Bugra\Desktop\csharp_kodlar\listboxa_cift_sayi_ekleme\listboxa_cift_sayi_ekleme\obj\Debug\listboxa_cift_sayi_ekleme.pdb

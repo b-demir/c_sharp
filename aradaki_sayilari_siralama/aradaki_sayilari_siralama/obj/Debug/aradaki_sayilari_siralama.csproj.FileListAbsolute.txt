@@ -1,0 +1,10 @@
+C:\Users\Bugra\Desktop\csharp_kodlar\aradaki_sayilari_siralama\aradaki_sayilari_siralama\bin\Debug\aradaki_sayilari_siralama.exe.config
+C:\Users\Bugra\Desktop\csharp_kodlar\aradaki_sayilari_siralama\aradaki_sayilari_siralama\bin\Debug\aradaki_sayilari_siralama.exe
+C:\Users\Bugra\Desktop\csharp_kodlar\aradaki_sayilari_siralama\aradaki_sayilari_siralama\bin\Debug\aradaki_sayilari_siralama.pdb
+C:\Users\Bugra\Desktop\csharp_kodlar\aradaki_sayilari_siralama\aradaki_sayilari_siralama\obj\Debug\aradaki_sayilari_siralama.csproj.AssemblyReference.cache
+C:\Users\Bugra\Desktop\csharp_kodlar\aradaki_sayilari_siralama\aradaki_sayilari_siralama\obj\Debug\aradaki_sayilari_siralama.Form1.resources
+C:\Users\Bugra\Desktop\csharp_kodlar\aradaki_sayilari_siralama\aradaki_sayilari_siralama\obj\Debug\aradaki_sayilari_siralama.Properties.Resources.resources
+C:\Users\Bugra\Desktop\csharp_kodlar\aradaki_sayilari_siralama\aradaki_sayilari_siralama\obj\Debug\aradaki_sayilari_siralama.csproj.GenerateResource.cache
+C:\Users\Bugra\Desktop\csharp_kodlar\aradaki_sayilari_siralama\aradaki_sayilari_siralama\obj\Debug\aradaki_sayilari_siralama.csproj.CoreCompileInputs.cache
+C:\Users\Bugra\Desktop\csharp_kodlar\aradaki_sayilari_siralama\aradaki_sayilari_siralama\obj\Debug\aradaki_sayilari_siralama.exe
+C:\Users\Bugra\Desktop\csharp_kodlar\aradaki_sayilari_siralama\aradaki_sayilari_siralama\obj\Debug\aradaki_sayilari_siralama.pdb

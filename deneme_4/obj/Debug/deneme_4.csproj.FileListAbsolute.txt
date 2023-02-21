@@ -1,0 +1,10 @@
+E:\Okul\deneme_4\bin\Debug\deneme_4.exe.config
+E:\Okul\deneme_4\bin\Debug\deneme_4.exe
+E:\Okul\deneme_4\bin\Debug\deneme_4.pdb
+E:\Okul\deneme_4\obj\Debug\deneme_4.csproj.AssemblyReference.cache
+E:\Okul\deneme_4\obj\Debug\deneme_4.Form1.resources
+E:\Okul\deneme_4\obj\Debug\deneme_4.Properties.Resources.resources
+E:\Okul\deneme_4\obj\Debug\deneme_4.csproj.GenerateResource.cache
+E:\Okul\deneme_4\obj\Debug\deneme_4.csproj.CoreCompileInputs.cache
+E:\Okul\deneme_4\obj\Debug\deneme_4.exe
+E:\Okul\deneme_4\obj\Debug\deneme_4.pdb

@@ -1,0 +1,10 @@
+C:\Users\Bugra\Desktop\C#_2022\kredi_karti_dogrulama\kredi_karti_dogrulama\bin\Debug\kredi_karti_dogrulama.exe.config
+C:\Users\Bugra\Desktop\C#_2022\kredi_karti_dogrulama\kredi_karti_dogrulama\bin\Debug\kredi_karti_dogrulama.exe
+C:\Users\Bugra\Desktop\C#_2022\kredi_karti_dogrulama\kredi_karti_dogrulama\bin\Debug\kredi_karti_dogrulama.pdb
+C:\Users\Bugra\Desktop\C#_2022\kredi_karti_dogrulama\kredi_karti_dogrulama\obj\Debug\kredi_karti_dogrulama.csproj.AssemblyReference.cache
+C:\Users\Bugra\Desktop\C#_2022\kredi_karti_dogrulama\kredi_karti_dogrulama\obj\Debug\kredi_karti_dogrulama.Form1.resources
+C:\Users\Bugra\Desktop\C#_2022\kredi_karti_dogrulama\kredi_karti_dogrulama\obj\Debug\kredi_karti_dogrulama.Properties.Resources.resources
+C:\Users\Bugra\Desktop\C#_2022\kredi_karti_dogrulama\kredi_karti_dogrulama\obj\Debug\kredi_karti_dogrulama.csproj.GenerateResource.cache
+C:\Users\Bugra\Desktop\C#_2022\kredi_karti_dogrulama\kredi_karti_dogrulama\obj\Debug\kredi_karti_dogrulama.csproj.CoreCompileInputs.cache
+C:\Users\Bugra\Desktop\C#_2022\kredi_karti_dogrulama\kredi_karti_dogrulama\obj\Debug\kredi_karti_dogrulama.exe
+C:\Users\Bugra\Desktop\C#_2022\kredi_karti_dogrulama\kredi_karti_dogrulama\obj\Debug\kredi_karti_dogrulama.pdb

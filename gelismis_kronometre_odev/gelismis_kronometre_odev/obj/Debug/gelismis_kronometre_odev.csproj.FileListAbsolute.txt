@@ -1,0 +1,10 @@
+C:\Users\Bugra\Desktop\Demir'in\Okul\gelismis_kronometre_odev\gelismis_kronometre_odev\bin\Debug\gelismis_kronometre_odev.exe.config
+C:\Users\Bugra\Desktop\Demir'in\Okul\gelismis_kronometre_odev\gelismis_kronometre_odev\bin\Debug\gelismis_kronometre_odev.exe
+C:\Users\Bugra\Desktop\Demir'in\Okul\gelismis_kronometre_odev\gelismis_kronometre_odev\bin\Debug\gelismis_kronometre_odev.pdb
+C:\Users\Bugra\Desktop\Demir'in\Okul\gelismis_kronometre_odev\gelismis_kronometre_odev\obj\Debug\gelismis_kronometre_odev.csproj.AssemblyReference.cache
+C:\Users\Bugra\Desktop\Demir'in\Okul\gelismis_kronometre_odev\gelismis_kronometre_odev\obj\Debug\gelismis_kronometre_odev.Form1.resources
+C:\Users\Bugra\Desktop\Demir'in\Okul\gelismis_kronometre_odev\gelismis_kronometre_odev\obj\Debug\gelismis_kronometre_odev.Properties.Resources.resources
+C:\Users\Bugra\Desktop\Demir'in\Okul\gelismis_kronometre_odev\gelismis_kronometre_odev\obj\Debug\gelismis_kronometre_odev.csproj.GenerateResource.cache
+C:\Users\Bugra\Desktop\Demir'in\Okul\gelismis_kronometre_odev\gelismis_kronometre_odev\obj\Debug\gelismis_kronometre_odev.csproj.CoreCompileInputs.cache
+C:\Users\Bugra\Desktop\Demir'in\Okul\gelismis_kronometre_odev\gelismis_kronometre_odev\obj\Debug\gelismis_kronometre_odev.exe
+C:\Users\Bugra\Desktop\Demir'in\Okul\gelismis_kronometre_odev\gelismis_kronometre_odev\obj\Debug\gelismis_kronometre_odev.pdb

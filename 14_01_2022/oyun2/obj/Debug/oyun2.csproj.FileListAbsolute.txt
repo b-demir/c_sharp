@@ -1,0 +1,10 @@
+E:\Okul\14_01_2022\oyun2\bin\Debug\oyun2.exe.config
+E:\Okul\14_01_2022\oyun2\bin\Debug\oyun2.exe
+E:\Okul\14_01_2022\oyun2\bin\Debug\oyun2.pdb
+E:\Okul\14_01_2022\oyun2\obj\Debug\oyun2.csproj.AssemblyReference.cache
+E:\Okul\14_01_2022\oyun2\obj\Debug\oyun2.Form1.resources
+E:\Okul\14_01_2022\oyun2\obj\Debug\oyun2.Properties.Resources.resources
+E:\Okul\14_01_2022\oyun2\obj\Debug\oyun2.csproj.GenerateResource.cache
+E:\Okul\14_01_2022\oyun2\obj\Debug\oyun2.csproj.CoreCompileInputs.cache
+E:\Okul\14_01_2022\oyun2\obj\Debug\oyun2.exe
+E:\Okul\14_01_2022\oyun2\obj\Debug\oyun2.pdb

@@ -1,0 +1,10 @@
+E:\Okul\sayisal_loto\bin\Debug\sayisal_loto.exe.config
+E:\Okul\sayisal_loto\bin\Debug\sayisal_loto.exe
+E:\Okul\sayisal_loto\bin\Debug\sayisal_loto.pdb
+E:\Okul\sayisal_loto\obj\Debug\sayisal_loto.csproj.AssemblyReference.cache
+E:\Okul\sayisal_loto\obj\Debug\sayisal_loto.Form1.resources
+E:\Okul\sayisal_loto\obj\Debug\sayisal_loto.Properties.Resources.resources
+E:\Okul\sayisal_loto\obj\Debug\sayisal_loto.csproj.GenerateResource.cache
+E:\Okul\sayisal_loto\obj\Debug\sayisal_loto.csproj.CoreCompileInputs.cache
+E:\Okul\sayisal_loto\obj\Debug\sayisal_loto.exe
+E:\Okul\sayisal_loto\obj\Debug\sayisal_loto.pdb

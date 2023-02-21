@@ -1,0 +1,10 @@
+C:\Users\Bugra\Desktop\csharp_kodlar\sepet_ve_rastgele_sayı\sepet_ve_rastgele_sayı\bin\Debug\sepet_ve_rastgele_sayı.exe.config
+C:\Users\Bugra\Desktop\csharp_kodlar\sepet_ve_rastgele_sayı\sepet_ve_rastgele_sayı\bin\Debug\sepet_ve_rastgele_sayı.exe
+C:\Users\Bugra\Desktop\csharp_kodlar\sepet_ve_rastgele_sayı\sepet_ve_rastgele_sayı\bin\Debug\sepet_ve_rastgele_sayı.pdb
+C:\Users\Bugra\Desktop\csharp_kodlar\sepet_ve_rastgele_sayı\sepet_ve_rastgele_sayı\obj\Debug\sepet_ve_rastgele_sayı.csproj.AssemblyReference.cache
+C:\Users\Bugra\Desktop\csharp_kodlar\sepet_ve_rastgele_sayı\sepet_ve_rastgele_sayı\obj\Debug\sepet_ve_rastgele_sayı.Form1.resources
+C:\Users\Bugra\Desktop\csharp_kodlar\sepet_ve_rastgele_sayı\sepet_ve_rastgele_sayı\obj\Debug\sepet_ve_rastgele_sayı.Properties.Resources.resources
+C:\Users\Bugra\Desktop\csharp_kodlar\sepet_ve_rastgele_sayı\sepet_ve_rastgele_sayı\obj\Debug\sepet_ve_rastgele_sayı.csproj.GenerateResource.cache
+C:\Users\Bugra\Desktop\csharp_kodlar\sepet_ve_rastgele_sayı\sepet_ve_rastgele_sayı\obj\Debug\sepet_ve_rastgele_sayı.csproj.CoreCompileInputs.cache
+C:\Users\Bugra\Desktop\csharp_kodlar\sepet_ve_rastgele_sayı\sepet_ve_rastgele_sayı\obj\Debug\sepet_ve_rastgele_sayı.exe
+C:\Users\Bugra\Desktop\csharp_kodlar\sepet_ve_rastgele_sayı\sepet_ve_rastgele_sayı\obj\Debug\sepet_ve_rastgele_sayı.pdb

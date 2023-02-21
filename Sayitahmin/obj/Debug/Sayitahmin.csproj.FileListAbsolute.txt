@@ -1,0 +1,10 @@
+E:\Okul\Sayitahmin\bin\Debug\Sayitahmin.exe.config
+E:\Okul\Sayitahmin\bin\Debug\Sayitahmin.exe
+E:\Okul\Sayitahmin\bin\Debug\Sayitahmin.pdb
+E:\Okul\Sayitahmin\obj\Debug\Sayitahmin.csproj.AssemblyReference.cache
+E:\Okul\Sayitahmin\obj\Debug\Sayitahmin.Form1.resources
+E:\Okul\Sayitahmin\obj\Debug\Sayitahmin.Properties.Resources.resources
+E:\Okul\Sayitahmin\obj\Debug\Sayitahmin.csproj.GenerateResource.cache
+E:\Okul\Sayitahmin\obj\Debug\Sayitahmin.csproj.CoreCompileInputs.cache
+E:\Okul\Sayitahmin\obj\Debug\Sayitahmin.exe
+E:\Okul\Sayitahmin\obj\Debug\Sayitahmin.pdb

@@ -1,0 +1,10 @@
+C:\Users\Bugra\Desktop\Demir'in\Okul\deneme_5\deneme_5\bin\Debug\deneme_5.exe.config
+C:\Users\Bugra\Desktop\Demir'in\Okul\deneme_5\deneme_5\bin\Debug\deneme_5.exe
+C:\Users\Bugra\Desktop\Demir'in\Okul\deneme_5\deneme_5\bin\Debug\deneme_5.pdb
+C:\Users\Bugra\Desktop\Demir'in\Okul\deneme_5\deneme_5\obj\Debug\deneme_5.csproj.AssemblyReference.cache
+C:\Users\Bugra\Desktop\Demir'in\Okul\deneme_5\deneme_5\obj\Debug\deneme_5.Form1.resources
+C:\Users\Bugra\Desktop\Demir'in\Okul\deneme_5\deneme_5\obj\Debug\deneme_5.Properties.Resources.resources
+C:\Users\Bugra\Desktop\Demir'in\Okul\deneme_5\deneme_5\obj\Debug\deneme_5.csproj.GenerateResource.cache
+C:\Users\Bugra\Desktop\Demir'in\Okul\deneme_5\deneme_5\obj\Debug\deneme_5.csproj.CoreCompileInputs.cache
+C:\Users\Bugra\Desktop\Demir'in\Okul\deneme_5\deneme_5\obj\Debug\deneme_5.exe
+C:\Users\Bugra\Desktop\Demir'in\Okul\deneme_5\deneme_5\obj\Debug\deneme_5.pdb

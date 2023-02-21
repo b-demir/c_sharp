@@ -1,0 +1,10 @@
+C:\Users\Bugra\Desktop\csharp_kodlar\combobox_alfabe\combobox_alfabe\bin\Debug\combobox_alfabe.exe.config
+C:\Users\Bugra\Desktop\csharp_kodlar\combobox_alfabe\combobox_alfabe\bin\Debug\combobox_alfabe.exe
+C:\Users\Bugra\Desktop\csharp_kodlar\combobox_alfabe\combobox_alfabe\bin\Debug\combobox_alfabe.pdb
+C:\Users\Bugra\Desktop\csharp_kodlar\combobox_alfabe\combobox_alfabe\obj\Debug\combobox_alfabe.csproj.AssemblyReference.cache
+C:\Users\Bugra\Desktop\csharp_kodlar\combobox_alfabe\combobox_alfabe\obj\Debug\combobox_alfabe.Form1.resources
+C:\Users\Bugra\Desktop\csharp_kodlar\combobox_alfabe\combobox_alfabe\obj\Debug\combobox_alfabe.Properties.Resources.resources
+C:\Users\Bugra\Desktop\csharp_kodlar\combobox_alfabe\combobox_alfabe\obj\Debug\combobox_alfabe.csproj.GenerateResource.cache
+C:\Users\Bugra\Desktop\csharp_kodlar\combobox_alfabe\combobox_alfabe\obj\Debug\combobox_alfabe.csproj.CoreCompileInputs.cache
+C:\Users\Bugra\Desktop\csharp_kodlar\combobox_alfabe\combobox_alfabe\obj\Debug\combobox_alfabe.exe
+C:\Users\Bugra\Desktop\csharp_kodlar\combobox_alfabe\combobox_alfabe\obj\Debug\combobox_alfabe.pdb

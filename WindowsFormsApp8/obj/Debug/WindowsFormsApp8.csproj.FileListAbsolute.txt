@@ -1,0 +1,10 @@
+E:\Okul\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.exe.config
+E:\Okul\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.exe
+E:\Okul\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.pdb
+E:\Okul\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csproj.AssemblyReference.cache
+E:\Okul\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.Form1.resources
+E:\Okul\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.Properties.Resources.resources
+E:\Okul\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csproj.GenerateResource.cache
+E:\Okul\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csproj.CoreCompileInputs.cache
+E:\Okul\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.exe
+E:\Okul\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.pdb

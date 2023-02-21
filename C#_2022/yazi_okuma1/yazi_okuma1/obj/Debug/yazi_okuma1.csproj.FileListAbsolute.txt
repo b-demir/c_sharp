@@ -1,0 +1,12 @@
+C:\Users\Bugra\Desktop\C#_2022\yazi_okuma1\yazi_okuma1\bin\Debug\yazi_okuma1.exe.config
+C:\Users\Bugra\Desktop\C#_2022\yazi_okuma1\yazi_okuma1\bin\Debug\yazi_okuma1.exe
+C:\Users\Bugra\Desktop\C#_2022\yazi_okuma1\yazi_okuma1\bin\Debug\yazi_okuma1.pdb
+C:\Users\Bugra\Desktop\C#_2022\yazi_okuma1\yazi_okuma1\obj\Debug\yazi_okuma1.csproj.AssemblyReference.cache
+C:\Users\Bugra\Desktop\C#_2022\yazi_okuma1\yazi_okuma1\obj\Debug\Interop.SpeechLib.dll
+C:\Users\Bugra\Desktop\C#_2022\yazi_okuma1\yazi_okuma1\obj\Debug\yazi_okuma1.csproj.ResolveComReference.cache
+C:\Users\Bugra\Desktop\C#_2022\yazi_okuma1\yazi_okuma1\obj\Debug\yazi_okuma1.Form1.resources
+C:\Users\Bugra\Desktop\C#_2022\yazi_okuma1\yazi_okuma1\obj\Debug\yazi_okuma1.Properties.Resources.resources
+C:\Users\Bugra\Desktop\C#_2022\yazi_okuma1\yazi_okuma1\obj\Debug\yazi_okuma1.csproj.GenerateResource.cache
+C:\Users\Bugra\Desktop\C#_2022\yazi_okuma1\yazi_okuma1\obj\Debug\yazi_okuma1.csproj.CoreCompileInputs.cache
+C:\Users\Bugra\Desktop\C#_2022\yazi_okuma1\yazi_okuma1\obj\Debug\yazi_okuma1.exe
+C:\Users\Bugra\Desktop\C#_2022\yazi_okuma1\yazi_okuma1\obj\Debug\yazi_okuma1.pdb

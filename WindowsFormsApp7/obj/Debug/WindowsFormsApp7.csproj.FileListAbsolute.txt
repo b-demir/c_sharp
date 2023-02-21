@@ -1,0 +1,10 @@
+E:\Okul\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe.config
+E:\Okul\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe
+E:\Okul\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.pdb
+E:\Okul\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.AssemblyReference.cache
+E:\Okul\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Form1.resources
+E:\Okul\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Properties.Resources.resources
+E:\Okul\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.GenerateResource.cache
+E:\Okul\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.CoreCompileInputs.cache
+E:\Okul\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.exe
+E:\Okul\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.pdb

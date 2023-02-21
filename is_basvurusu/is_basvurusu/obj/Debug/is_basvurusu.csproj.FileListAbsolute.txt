@@ -1,0 +1,10 @@
+C:\Users\Bugra\Desktop\csharp_kodlar\is_basvurusu\is_basvurusu\bin\Debug\is_basvurusu.exe.config
+C:\Users\Bugra\Desktop\csharp_kodlar\is_basvurusu\is_basvurusu\bin\Debug\is_basvurusu.exe
+C:\Users\Bugra\Desktop\csharp_kodlar\is_basvurusu\is_basvurusu\bin\Debug\is_basvurusu.pdb
+C:\Users\Bugra\Desktop\csharp_kodlar\is_basvurusu\is_basvurusu\obj\Debug\is_basvurusu.csproj.AssemblyReference.cache
+C:\Users\Bugra\Desktop\csharp_kodlar\is_basvurusu\is_basvurusu\obj\Debug\is_basvurusu.Form1.resources
+C:\Users\Bugra\Desktop\csharp_kodlar\is_basvurusu\is_basvurusu\obj\Debug\is_basvurusu.Properties.Resources.resources
+C:\Users\Bugra\Desktop\csharp_kodlar\is_basvurusu\is_basvurusu\obj\Debug\is_basvurusu.csproj.GenerateResource.cache
+C:\Users\Bugra\Desktop\csharp_kodlar\is_basvurusu\is_basvurusu\obj\Debug\is_basvurusu.csproj.CoreCompileInputs.cache
+C:\Users\Bugra\Desktop\csharp_kodlar\is_basvurusu\is_basvurusu\obj\Debug\is_basvurusu.exe
+C:\Users\Bugra\Desktop\csharp_kodlar\is_basvurusu\is_basvurusu\obj\Debug\is_basvurusu.pdb

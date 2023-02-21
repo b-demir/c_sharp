@@ -1,0 +1,10 @@
+C:\Users\Bugra\Desktop\csharp_kodlar\faktoriyel_hesaplama\faktoriyel_hesaplama\bin\Debug\faktoriyel_hesaplama.exe.config
+C:\Users\Bugra\Desktop\csharp_kodlar\faktoriyel_hesaplama\faktoriyel_hesaplama\bin\Debug\faktoriyel_hesaplama.exe
+C:\Users\Bugra\Desktop\csharp_kodlar\faktoriyel_hesaplama\faktoriyel_hesaplama\bin\Debug\faktoriyel_hesaplama.pdb
+C:\Users\Bugra\Desktop\csharp_kodlar\faktoriyel_hesaplama\faktoriyel_hesaplama\obj\Debug\faktoriyel_hesaplama.csproj.AssemblyReference.cache
+C:\Users\Bugra\Desktop\csharp_kodlar\faktoriyel_hesaplama\faktoriyel_hesaplama\obj\Debug\faktoriyel_hesaplama.Form1.resources
+C:\Users\Bugra\Desktop\csharp_kodlar\faktoriyel_hesaplama\faktoriyel_hesaplama\obj\Debug\faktoriyel_hesaplama.Properties.Resources.resources
+C:\Users\Bugra\Desktop\csharp_kodlar\faktoriyel_hesaplama\faktoriyel_hesaplama\obj\Debug\faktoriyel_hesaplama.csproj.GenerateResource.cache
+C:\Users\Bugra\Desktop\csharp_kodlar\faktoriyel_hesaplama\faktoriyel_hesaplama\obj\Debug\faktoriyel_hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\Bugra\Desktop\csharp_kodlar\faktoriyel_hesaplama\faktoriyel_hesaplama\obj\Debug\faktoriyel_hesaplama.exe
+C:\Users\Bugra\Desktop\csharp_kodlar\faktoriyel_hesaplama\faktoriyel_hesaplama\obj\Debug\faktoriyel_hesaplama.pdb
